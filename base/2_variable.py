@@ -3,6 +3,7 @@
 counter = 100
 miles = 1000.0
 name = "pzxy"
+counter = "100"
 
 print(counter)
 print(miles)

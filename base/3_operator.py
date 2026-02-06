@@ -15,4 +15,4 @@ print(f**b)
 # 会保留小数
 print(a/b)
 # 相当于int类型在go和java以及c中的意思，会向下取整数。即使是浮点数，也会取整。
-print(a//f)
+print(a//b)
